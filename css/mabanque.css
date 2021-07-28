@@ -1,0 +1,18 @@
+.title
+{
+font-size: 4rem;
+font-family: 'Courier New';
+
+}
+.spanTitle
+{
+    font-family: "Comic sans MS";
+    margin-left: 4rem;
+}
+.divAuth
+{
+    
+width: 30vw;
+height: 100px;
+background-color: blanchedalmond;
+}
